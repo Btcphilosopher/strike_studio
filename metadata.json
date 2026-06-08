@@ -1,0 +1,6 @@
+{
+  "name": "Strike Studio",
+  "description": "Premium showcase website for Strike Studio, an architectural studio specialized in modern avant-garde and timeless spaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
